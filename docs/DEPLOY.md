@@ -19,7 +19,7 @@
 
 ## 2. Vercel
 
-1. Importe o repositório e defina **Root Directory = `radar-imprensa`**.
+1. Importe o repositório (o projeto fica na raiz; não é preciso definir Root Directory).
 2. Variáveis de ambiente (Production e Preview):
 
 | Variável | Observação |
